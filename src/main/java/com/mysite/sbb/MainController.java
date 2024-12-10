@@ -15,4 +15,8 @@ public class MainController {
     public void about(){
         System.out.println("about");
     }
+
+    public void contact(){
+        System.out.println("contact");
+    }
 }
