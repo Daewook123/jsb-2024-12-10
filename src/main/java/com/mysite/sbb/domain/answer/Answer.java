@@ -1,5 +1,6 @@
-package com.mysite.sbb;
+package com.mysite.sbb.domain.answer;
 
+import com.mysite.sbb.domain.question.Question;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
